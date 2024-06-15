@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.navbar-nav .nav-item a.nav-link {
+    margin-right: 30px;
+    font-weight: bold;
+}
+.navbar-nav .nav-item a .link :hover {
+    color: black;
+}
+
+
